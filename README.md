@@ -1,2 +1,4 @@
 # django_diancan_backend
 django_diancan_backend
+
+主要用CBV方式，djangorestframework中的apiview 快速编写API
